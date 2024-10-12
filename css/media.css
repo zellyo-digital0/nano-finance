@@ -1,0 +1,494 @@
+@media(max-width:1600px) {
+
+    h1 {
+        font-size: 52px;
+    }
+
+    h2 {
+        font-size: 38px !important;
+    }
+
+    h3 {
+        font-size: 30px !important;
+    }
+
+
+    p {
+        font-size: 18px !important;
+    }
+
+    .contact_details p {
+        font-size: 14px !important;
+    }
+
+    .sommes_content {
+        padding: 50px 50px 50px 140px;
+
+    }
+
+    .cta h2 {
+        font-size: 28px !important;
+    }
+}
+
+
+@media(max-width:1400px) {
+
+    .sommes-video {
+        width: 60%;
+        margin-right: -10%;
+    }
+
+    .sommes_content {
+        padding: 50px 50px 50px 130px;
+        left: 0;
+    }
+
+    .sommes-video-container {
+        right: 0;
+    }
+}
+
+@media(max-width:1199px) {
+
+    h1 {
+        font-size: 48px;
+    }
+
+    .mobile_header {
+        display: block;
+    }
+
+    .offlogo {
+        width: 70%;
+    }
+
+    .offtrigger {
+        width: 30%;
+    }
+
+    .top_header {
+        display: none;
+    }
+
+    .header {
+        display: none;
+    }
+
+    .contact_icon {
+        border-radius: 10px 0px;
+    }
+
+    .about_box {
+        justify-content: start;
+    }
+
+    .gp p {
+        margin: 20px 0px;
+    }
+
+    .sommes-video {
+        width: auto;
+        margin-right: 0;
+    }
+
+
+    .sommes-row {
+        flex-wrap: wrap;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .sommes_content {
+        padding: 30px;
+        border-radius: 15px;
+    }
+
+    .sommes-content-div {
+        width: 100%;
+    }
+
+    .faq_title h2 {
+        width: 42%;
+
+    }
+
+
+    .cta {
+        padding: 30px;
+    }
+
+    .call img {
+        width: 80px;
+    }
+
+
+    .foot-news {
+        display: block;
+    }
+
+}
+
+@media(max-width:991px) {
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 40px !important;
+    }
+
+    h3 {
+        font-size: 30px !important;
+    }
+
+    p {
+        font-size: 18px !important;
+    }
+
+    .cp60 {
+        padding: 60px 15px;
+    }
+
+    .mobile_header {
+        display: block;
+    }
+
+    .offlogo {
+        width: 70%;
+    }
+
+    .offtrigger {
+        width: 30%;
+    }
+
+    .top_header {
+        display: none;
+    }
+
+    .header {
+        display: none;
+    }
+
+    .banner .row {
+        min-height: 40vh;
+    }
+
+    .ft_box {
+        margin: 0;
+    }
+
+    .ft_content {
+        border-radius: 15px;
+        text-align: left;
+        width: auto;
+        margin-bottom: 25px;
+    }
+
+    .sommes-video {
+        width: auto;
+        margin-right: 0;
+    }
+
+    .sommes-row {
+        flex-wrap: wrap;
+    }
+
+    .sommes_content {
+        padding: 30px;
+        border-radius: 15px;
+    }
+
+    .faq_title h2 {
+        width: 54%;
+    }
+
+    .accordion-button {
+        font-size: 22px;
+    }
+
+    .accordion-body {
+        width: 90%;
+    }
+
+    .cta {
+        padding: 30px;
+    }
+
+    .cta h2 {
+        font-size: 22px !important;
+    }
+
+    .call {
+        padding-left: 10px;
+    }
+
+    .call img {
+        width: 50px;
+    }
+
+    .nano_content {
+        padding: 30px 0px 0px 0px;
+    }
+
+
+    .nano_content h2 {
+        font-size: 70px !important;
+    }
+
+    .newsletter-form {
+        border-radius: 15px;
+        padding: 30px;
+    }
+
+    .newsletter-form form input[type="submit"] {
+        width: 50%;
+
+    }
+
+    .post_card {
+        padding: 0;
+        margin: 10px;
+    }
+
+    .post_card_content {
+        padding-left: 0;
+    }
+
+    .post_card_img .btn-go {
+        padding: 2px 30px;
+        margin-top: -28%;
+        margin-right: 10px;
+        width: 33%;
+    }
+
+    .foot-news {
+        display: block;
+    }
+
+    .footer-news {
+        width: auto;
+        margin: auto;
+    }
+
+}
+
+
+@media(max-width:767px) {
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 35px !important;
+    }
+
+    h3 {
+        font-size: 30px !important;
+    }
+
+    p {
+        font-size: 18px !important;
+    }
+
+    .cp60 {
+        padding: 60px 15px;
+    }
+
+    .mobile_header {
+        display: block;
+    }
+
+    .offlogo {
+        width: 70%;
+    }
+
+    .offtrigger {
+        width: 30%;
+    }
+
+    .top_header {
+        display: none;
+    }
+
+    .header {
+        display: none;
+    }
+
+    .banner {
+        padding: 100px 15px;
+    }
+
+    .banner .row {
+        min-height: 300px;
+    }
+
+    .about_content h2 {
+        font-size: 30px;
+    }
+
+    .faq_title h2 {
+        width: auto;
+    }
+
+    .accordion-button {
+        font-size: 18px;
+        padding: 10px;
+    }
+
+
+    .cta {
+        flex-direction: column;
+        padding: 20px;
+        align-items: normal;
+        text-align: center;
+    }
+
+    .cta h2 {
+        color: #fff;
+        font-size: 25px !important;
+    }
+
+    .cta>* {
+        margin-bottom: 25px;
+    }
+
+    .call {
+        display: flex;
+        flex-direction: column;
+        border-left: none;
+        border-top: 2px dashed #fff;
+        padding: 0;
+    }
+
+    .call img {
+        width: 77px;
+        margin-right: 0;
+        margin-top: 20px;
+    }
+
+    .nano_content h2 {
+        font-size: 60px;
+    }
+
+    .sommes-video {
+        width: auto;
+        margin-right: 0;
+    }
+
+    .sommes-row {
+        flex-wrap: wrap;
+    }
+
+    .sommes_content {
+        padding: 20px;
+        border-radius: 15px;
+    }
+
+    .ft_box {
+        margin: 0;
+    }
+
+    .ft_content {
+        padding: 20px;
+        border-radius: 15px;
+        text-align: left;
+        width: auto;
+        margin-bottom: 25px;
+    }
+
+    .play-button img {
+        width: 80px;
+    }
+
+    .accordion-body {
+        width: auto;
+    }
+
+    .newsletter_content a {
+        margin-top: 0;
+    }
+
+    .newsletter-form {
+        border-radius: 15px;
+        padding: 30px;
+    }
+
+    .newsletter-form form input[type="submit"] {
+        width: 50%;
+        padding: 8px;
+    }
+
+    .newsletter-form form input {
+        padding: 8px;
+    }
+
+    .evenments_title {
+        text-align: start;
+    }
+
+    .enements_img {
+        text-align: start !important;
+    }
+
+
+    .post_card {
+        padding: 0;
+        margin: 5px;
+    }
+
+    .post_card_content {
+        padding-left: 0;
+    }
+
+    .post_card_img .btn-go {
+        padding: 2px 30px;
+        margin-top: -28%;
+        margin-right: 10px;
+        width: 33%;
+    }
+
+    .footer-news {
+        width: auto;
+        margin: auto;
+    }
+
+    .footer_logo hr {
+        width: auto;
+    }
+
+    .footer_box .contact_box .contact_icon {
+        margin-right: 25px;
+    }
+
+    .contact_box {
+        margin-bottom: 25px;
+    }
+
+}
+
+@media(max-width:575px) {
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 30px !important;
+    }
+
+    h3 {
+        font-size: 25px !important;
+    }
+
+    p {
+        font-size: 16px !important;
+    }
+
+    .cp60 {
+        padding: 60px 15px;
+    }
+
+    .banner {
+        padding: 80px 15px;
+    }
+}
